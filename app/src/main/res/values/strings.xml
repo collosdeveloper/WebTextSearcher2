@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WebTextSearcher</string>
+
+    <string name="start_url">Стартовый url</string>
+    <string name="scan_thread_count">Число потоков сканирования</string>
+    <string name="searched_text">Искомый текст</string>
+    <string name="max_count_of_scanned_url">Максимальное количество сканируемых url</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="pause">Пауза On</string>
+    <string name="pause_off">Пауза Off</string>
+    <string name="list_of_scanned_scanning_url">Список сканируемых/отсканированных URL :</string>
+    <string name="wrong_url_error">Неверный формат URL, перепроверьте и введите еще раз</string>
+    <string name="wrong_thread_count_error">Количество потоков должно быть больше 0</string>
+    <string name="searched_text_error">Искомый текст не должен быть пустым</string>
+    <string name="scanned_url_error">Количество сканируемых URL должно быть больше 0</string>
+    <string name="loading">Закачка</string>
+    <string name="find">Найдено</string>
+    <string name="not_find">Не найлено</string>
+    <string name="error_with_body">Ошибка : %s</string>
+</resources>
